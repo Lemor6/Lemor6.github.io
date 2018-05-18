@@ -1,0 +1,30 @@
+body{
+  background-color: peachpuff;
+  width: 1000px;
+  margin: auto;
+  margin-top: 100px;
+}
+
+p{
+  font-family: europa-light;
+  font-size: 12px;
+}
+
+h1{
+  font-family: europa-bolditalic;
+  text-transform: uppercase;
+}
+
+h2{
+  font-family: europa-bold;
+  text-transform: uppercase;
+}
+
+h3{
+  font-family: europa-bold;
+}
+
+blockquote{
+    font-family: europa-lightitalic;
+    font-size: 12px;
+  }
