@@ -26,6 +26,20 @@
   text-decoration: none;
 }
 
+.end1{
+  border-bottom: 3px solid black;
+}
+
+.article2{
+  padding-left: 200px;
+  padding-right: 200px;
+}
+
+.article3{
+  padding-left: 200px;
+  padding-right: 200px;
+}
+
 h1{
   text-transform: uppercase;
   text-align: center;
