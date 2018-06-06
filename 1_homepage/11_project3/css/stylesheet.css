@@ -17,11 +17,13 @@
 .leftarrow{
   float:left;
   font-size: 50px;
+  text-decoration: none;
 }
 
 .rightarrow{
   float: right;
   font-size: 50px;
+  text-decoration: none;
 }
 
 h1{
