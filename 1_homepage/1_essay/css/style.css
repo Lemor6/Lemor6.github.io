@@ -32,3 +32,8 @@ blockquote{
 div{
   text-align: center;
 }
+
+li{
+  font-family: europa-light;
+  font-size: 12px;
+}
