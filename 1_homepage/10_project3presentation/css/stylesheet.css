@@ -3,7 +3,7 @@
 }
 
 h1{
-  color:salmon;
+  color:#08BAC1;
 }
 
 body{
@@ -11,7 +11,7 @@ body{
   font-size: 14px;
   color: white;
   background-color: black;
-  padding: 10pt;
+  padding: 100px;
 }
 
 div{
