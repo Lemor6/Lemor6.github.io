@@ -3,7 +3,8 @@
 }
 
 body{
-  text-align: center;
-  font-style: helvetica;
-  font-size: 12px;
+  font-family: helvetica;
+  font-size: 14px;
+  colour: white;
+  background-color: black;
 }
