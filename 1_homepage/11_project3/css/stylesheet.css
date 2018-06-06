@@ -1,0 +1,46 @@
+  .linktohomepage{
+  text-align: center;
+  font-size: 16px;
+  font-family: europa-light;
+  margin:auto;
+  position:relative;
+  border: 3px solid #EF6CB6 ;
+  padding: 5px;
+  width: 300px;
+}
+
+.article1{
+  padding-left: 200px;
+  padding-right: 200px;
+}
+
+h1{
+  text-transform: uppercase;
+  text-align: center;
+  font-weight: bold;
+  font-size: 50px;
+  font-family: europa-bold;
+  margin:auto;
+  position:relative;
+  border: 3px solid #E8D4E1 ;
+  background-color: #F6E6F1;
+  padding: 5px;
+}
+
+h2{
+  font-weight: bold;
+  font-size:20px;
+  font-family: europa-bold;
+}
+
+h3{
+  font-weight: bold;
+}
+
+body{
+  background-color: #FFFAFD;
+  font-size: 12px;
+  font-family: europa-light;
+  padding-left: 20px;
+  padding-right: 20px;
+  }
