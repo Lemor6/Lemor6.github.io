@@ -1,3 +1,4 @@
+
   p1{
   font-weight: bold;
 }
@@ -14,6 +15,13 @@ body{
   padding: 100px;
 }
 
-div{
+.linktohomepage{
   text-align: center;
+  font-size: 16px;
+  font-family: europa-light;
+  margin:auto;
+  position:relative;
+  border: 3px solid #EF6CB6 ;
+  padding: 5px;
+  width: 300px;
 }
