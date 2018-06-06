@@ -1,28 +1,44 @@
 h1{
-  font-size: 60px;
+  color: #B5007B;
+  font-size: 80px;
   font-family: europa-bold;
   text-align: left;
   text-transform: uppercase;
   float: left;
+  padding-left: 200px;
 }
 
 p{
   font-size: 16px;
   font-family: europa-light;
   clear: both;
+  margin-left: 100px;
+  margin-right: 100px;
 }
 
 img{
   float: right;
-  padding-right: : none;
+  padding-right:200px;
   text-align: center;
 }
 
 body{
+border-style: dotted;
+border-width: 3px;
+border-color: #EC0C66;
 background-color: #f4c592;
 font-size: 20px;
 text-align: center;
-width: 800px;
-margin-top: 100px;
-border-style: dotted;
+padding: 20px;
+padding-top: 50px;
+}
+
+.boxed {
+  font-size: 16px;
+  font-family: europa-light;
+  margin:auto;
+  position:relative;
+  border: 3px solid #EF6CB6 ;
+  padding: 5px;
+  width: 500px;
 }
