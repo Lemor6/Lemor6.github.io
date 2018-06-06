@@ -28,3 +28,7 @@ blockquote{
     font-family: europa-lightitalic;
     font-size: 12px;
   }
+
+div{
+  text-align: center;
+}
