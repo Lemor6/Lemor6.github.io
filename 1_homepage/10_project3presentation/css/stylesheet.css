@@ -2,9 +2,18 @@
   font-weight: bold;
 }
 
+h1{
+  color:salmon;
+}
+
 body{
   font-family: helvetica;
   font-size: 14px;
   color: white;
   background-color: black;
+  padding: 10pt;
+}
+
+div{
+  text-align: center;
 }
